@@ -1,6 +1,6 @@
 # Career - Create a pull request to apply!
 
-Join The Team  PayCore is very proud of its dynamic, motivated team who are highly respected throughout the payments industry. The team’s pursuit of excellence in this highly competitive environment underpins their abilities as leading innovators in the development of cutting-edge solutions and outstanding executional capabilities.  
+PayCore is very proud of its dynamic, motivated team who are highly respected throughout the payments industry. The team’s pursuit of excellence in this highly competitive environment underpins their abilities as leading innovators in the development of cutting-edge solutions and outstanding executional capabilities.  
 
 As PayCore grows globally, we are always keen to meet equally talented and motivated individuals who would like to be part of our family and form part of our journey.  
 
